@@ -19,3 +19,6 @@
 [submodule "Bt05"]
 	path = Bt05
 	url = https://github.com/voduyanhgalaxys4-code/Bt05.git
+[submodule "Bt08"]
+	path = Bt08
+	url = https://github.com/voduyanhgalaxys4-code/Bt08.git
